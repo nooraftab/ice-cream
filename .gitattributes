@@ -1,0 +1,3 @@
+$ cat .gitattributes
+IceCreamLine/doc/* linguist-documentation
+IceCreamMaker/doc/* linguist-documentation
